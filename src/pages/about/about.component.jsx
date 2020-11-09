@@ -21,7 +21,7 @@ const About = () => {
             </Col>
             <Col xs={12} md={6}>
               <Row className=" align-items-start p-2 my-details rounded">
-                Hi there! I am <strong>&nbsp;Anand Kumar Jha</strong>
+                Hi there! I am <strong>&nbsp;Mahesh Lakkapally</strong>
                 <br />A passionate programmer and a Coach, born and brought up in India. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and PostgreSQL as my tech stack.
                 <br />
                 In 2019, I successfully completed my Engineering with specialization in 'Electronics and Telecommunication'.
